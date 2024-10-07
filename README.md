@@ -1,6 +1,6 @@
-# expense_module
+# Asani Sheets Manager
 
-A new Flutter project.
+A flutter project that serves as an inventory & expense manager app, using google sheets as database using api.
 
 ## Getting Started
 
